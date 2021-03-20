@@ -31,7 +31,7 @@ Genshi==0.6
 GeoAlchemy==0.7.2
 GeoAlchemy2==0.2.6
 html5lib==0.9999999
-Jinja2==2.6
+Jinja2==2.11.3
 json-table-schema==0.2.1
 jsonschema==2.4.0
 kombu==2.1.3
